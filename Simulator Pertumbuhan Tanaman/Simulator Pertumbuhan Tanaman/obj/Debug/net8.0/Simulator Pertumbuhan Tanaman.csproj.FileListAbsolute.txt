@@ -1,0 +1,14 @@
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\obj\Debug\net8.0\Simulator Pertumbuhan Tanaman.GeneratedMSBuildEditorConfig.editorconfig
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\obj\Debug\net8.0\Simulator Pertumbuhan Tanaman.AssemblyInfoInputs.cache
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\obj\Debug\net8.0\Simulator Pertumbuhan Tanaman.AssemblyInfo.cs
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\obj\Debug\net8.0\Simulator Pertumbuhan Tanaman.csproj.CoreCompileInputs.cache
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\bin\Debug\net8.0\Simulator Pertumbuhan Tanaman.exe
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\bin\Debug\net8.0\Simulator Pertumbuhan Tanaman.deps.json
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\bin\Debug\net8.0\Simulator Pertumbuhan Tanaman.runtimeconfig.json
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\bin\Debug\net8.0\Simulator Pertumbuhan Tanaman.dll
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\bin\Debug\net8.0\Simulator Pertumbuhan Tanaman.pdb
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\obj\Debug\net8.0\Simulator Pertumbuhan Tanaman.dll
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\obj\Debug\net8.0\refint\Simulator Pertumbuhan Tanaman.dll
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\obj\Debug\net8.0\Simulator Pertumbuhan Tanaman.pdb
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\obj\Debug\net8.0\Simulator Pertumbuhan Tanaman.genruntimeconfig.cache
+D:\adityatng\onlineClass-PT Berca Hardayaperkasa\Simulator Pertumbuhan Tanaman\Simulator Pertumbuhan Tanaman\obj\Debug\net8.0\ref\Simulator Pertumbuhan Tanaman.dll
